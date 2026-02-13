@@ -1,0 +1,10 @@
+1|Perfume Rose|$40
+2|Perfume Vanilla|$42
+3|Perfume Musk|$45
+4|Perfume Ocean|$38
+5|Deodorant Men|$20
+6|Deodorant Women|$22
+7|Body Mist|$25
+8|Roll On|$15
+9|Room Freshener|$18
+10|Aroma Oil|$30

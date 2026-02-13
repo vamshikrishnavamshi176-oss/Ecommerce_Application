@@ -1,0 +1,10 @@
+1|Lipstick|$20
+2|Foundation|$35
+3|Mascara|$25
+4|Eyeliner|$15
+5|Blush|$18
+6|Concealer|$22
+7|Highlighter|$20
+8|Compact Powder|$17
+9|Makeup Kit|$60
+10|Face Primer|$28

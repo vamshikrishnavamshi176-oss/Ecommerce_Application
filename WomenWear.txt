@@ -1,0 +1,10 @@
+1|Women Top|$22
+2|Women Jeans|$38
+3|Women Saree|$70
+4|Women Kurti|$30
+5|Women Skirt|$28
+6|Women Gown|$65
+7|Women Jacket|$50
+8|Women Dupatta|$18
+9|Women Leggings|$20
+10|Women Sweater|$42

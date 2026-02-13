@@ -1,0 +1,5 @@
+1|HomeBacker
+2|Electronics
+3|Fashion
+4|HouseHolds
+5|Cosmetics

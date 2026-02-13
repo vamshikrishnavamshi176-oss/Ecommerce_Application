@@ -1,0 +1,10 @@
+1|White Bread|$25
+2|Multigrain Bread|$30
+3|Whole Wheat Bread|$28
+4|Sourdough Bread|$35
+5|Rye Bread|$32
+6|Baguette|$40
+7|Ciabatta|$38
+8|Focaccia|$36
+9|Brown Bread|$27
+10|Gluten-Free Bread|$45

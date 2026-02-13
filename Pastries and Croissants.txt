@@ -1,0 +1,10 @@
+1|Butter Croissant|$15
+2|Chocolate Croissant|$18
+3|Almond Croissant|$20
+4|Danish Pastry Apple|$22
+5|Danish Pastry Cherry|$22
+6|Puff Pastry Cheese|$25
+7|Puff Pastry Spinach|$25
+8|Eclair Chocolate|$28
+9|Eclair Vanilla|$28
+10|Fruit Tart|$30

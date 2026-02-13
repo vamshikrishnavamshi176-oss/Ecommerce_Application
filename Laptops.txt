@@ -1,0 +1,10 @@
+1|MacBook Air M2|$1200
+2|Dell XPS 13|$1100
+3|HP Spectre x360|$1050
+4|Lenovo ThinkPad X1|$1150
+5|Asus ZenBook 14|$980
+6|Acer Swift 3|$900
+7|MSI Modern 14|$950
+8|Razer Blade 14|$1500
+9|Microsoft Surface Laptop 5|$1300
+10|Google Pixelbook Go|$1000

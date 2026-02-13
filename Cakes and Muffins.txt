@@ -1,0 +1,10 @@
+1|Chocolate Cake|$50
+2|Vanilla Cake|$45
+3|Red Velvet Cake|$55
+4|Carrot Cake|$48
+5|Cupcake Chocolate|$20
+6|Cupcake Vanilla|$18
+7|Blueberry Muffin|$22
+8|Banana Muffin|$20
+9|Cheesecake|$60
+10|Pineapple Cake|$50

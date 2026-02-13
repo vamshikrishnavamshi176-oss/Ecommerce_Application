@@ -1,0 +1,10 @@
+1|Pressure Cooker|$60
+2|Non Stick Pan|$35
+3|Gas Stove|$120
+4|Mixer Grinder|$90
+5|Electric Kettle|$40
+6|Toaster|$45
+7|Rice Cooker|$70
+8|Blender|$55
+9|Water Purifier|$200
+10|Microwave Oven|$180

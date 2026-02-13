@@ -1,0 +1,10 @@
+1|Croissant | $2.50
+2|Baguette | $3.00
+3|Blueberry Muffin | $2.75
+4|Chocolate Chip Cookie | $1.50
+5|Cinnamon Roll | $3.25
+6|Apple Pie Slice | $3.50
+7|Cheesecake Slice | $4.00
+8|Brownie | $2.00
+9|Cupcake | $2.25
+10|Sourdough Bread | $4.50

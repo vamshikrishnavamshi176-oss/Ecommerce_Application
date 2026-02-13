@@ -1,0 +1,10 @@
+1|Shampoo|$18
+2|Conditioner|$18
+3|Hair Oil|$12
+4|Hair Serum|$15
+5|Hair Mask|$22
+6|Hair Spray|$14
+7|Dry Shampoo|$20
+8|Hair Gel|$10
+9|Hair Color|$25
+10|Hair Cream|$16

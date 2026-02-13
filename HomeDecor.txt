@@ -1,0 +1,10 @@
+1|Wall Clock|$25
+2|Flower Vase|$30
+3|Curtains|$45
+4|Table Lamp|$40
+5|Photo Frame|$20
+6|Carpet|$60
+7|Cushion Cover|$15
+8|Wall Art|$50
+9|Show Piece|$35
+10|Mirror|$55

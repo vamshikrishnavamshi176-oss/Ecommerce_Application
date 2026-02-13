@@ -1,0 +1,4 @@
+1|Makeup
+2|Skincare
+3|Haircare
+4|Fragrance

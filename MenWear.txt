@@ -1,0 +1,10 @@
+1|Men T-Shirt|$20
+2|Men Jeans|$35
+3|Men Shirt|$30
+4|Men Jacket|$50
+5|Men Kurta|$28
+6|Men Hoodie|$45
+7|Men Shorts|$22
+8|Men Blazer|$60
+9|Men Track Pants|$25
+10|Men Sweater|$40

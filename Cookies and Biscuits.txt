@@ -1,0 +1,10 @@
+1|Chocolate Chip Cookie|$12
+2|Oatmeal Cookie|$10
+3|Peanut Butter Cookie|$12
+4|Butter Biscuit|$8
+5|Ginger Biscuit|$9
+6|Almond Cookie|$14
+7|Cashew Biscuit|$15
+8|Sugar Cookie|$10
+9|Shortbread Cookie|$13
+10|Walnut Biscuit|$16

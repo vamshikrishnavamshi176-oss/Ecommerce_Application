@@ -1,0 +1,10 @@
+1|Wooden Chair|$80
+2|Dining Table|$150
+3|Sofa Set|$400
+4|Bed Frame|$350
+5|Study Table|$120
+6|Wardrobe|$300
+7|Bookshelf|$140
+8|TV Unit|$200
+9|Stool|$40
+10|Recliner Chair|$250

@@ -1,0 +1,4 @@
+1|MenWear
+2|WomenWear
+3|KidsWear
+4|Footwear

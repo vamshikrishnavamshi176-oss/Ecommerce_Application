@@ -1,0 +1,10 @@
+1|Sony WH-1000XM5|$350
+2|Bose 700|$330
+3|Sennheiser HD 660S|$400
+4|Apple AirPods Max|$550
+5|Beats Studio 3|$300
+6|JBL Live 660NC|$220
+7|Sony WF-1000XM4|$250
+8|Bose QC Earbuds|$280
+9|Skullcandy Crusher|$200
+10|Anker Soundcore Life Q30|$100

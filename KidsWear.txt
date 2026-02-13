@@ -1,0 +1,10 @@
+1|Kids T-Shirt|$15
+2|Kids Jeans|$20
+3|Kids Frock|$25
+4|Kids Shorts|$12
+5|Kids Jacket|$30
+6|Kids Hoodie|$28
+7|Kids Pajamas|$18
+8|Kids Sweater|$26
+9|Kids Party Wear|$35
+10|Kids Night Dress|$22

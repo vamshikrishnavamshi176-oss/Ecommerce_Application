@@ -1,0 +1,10 @@
+1|Broom|$10
+2|Mop|$18
+3|Detergent|$15
+4|Floor Cleaner|$20
+5|Dish Wash Liquid|$12
+6|Scrub Pad|$5
+7|Vacuum Cleaner|$150
+8|Cleaning Cloth|$8
+9|Toilet Cleaner|$14
+10|Garbage Bags|$6

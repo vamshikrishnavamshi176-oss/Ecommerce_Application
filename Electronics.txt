@@ -1,0 +1,4 @@
+1|Smartphones
+2|Laptops
+3|Headphones
+4|Smartwatches

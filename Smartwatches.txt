@@ -1,0 +1,10 @@
+1|Apple Watch Series 9|$450
+2|Samsung Galaxy Watch 6|$400
+3|Garmin Forerunner 955|$500
+4|Fitbit Versa 4|$230
+5|Amazfit GTR 4|$180
+6|Fossil Gen 6|$250
+7|Suunto 9 Peak|$550
+8|Huawei Watch GT3|$200
+9|TicWatch Pro 3|$300
+10|Garmin Venu 2|$350

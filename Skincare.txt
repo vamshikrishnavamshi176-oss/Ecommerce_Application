@@ -1,0 +1,10 @@
+1|Face Wash|$15
+2|Moisturizer|$20
+3|Sunscreen|$22
+4|Face Serum|$30
+5|Night Cream|$25
+6|Toner|$18
+7|Face Scrub|$16
+8|Sheet Mask|$5
+9|Under Eye Cream|$24
+10|Aloe Gel|$12
